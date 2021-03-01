@@ -1,0 +1,8 @@
+.News {
+  width: 30%;
+}
+
+.News .title {
+  overflow-wrap: break-word;
+}
+/*# sourceMappingURL=News.css.map */
